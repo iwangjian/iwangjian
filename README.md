@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Read more about me at [my homepage](https://iwangjian.github.io/) 
+- 🔭 Read more about me at [my homepage](https://iwangjian.github.io/).
 - 💻 Coding with Python/C++/Java, familiar with PyTorch and Tensorflow.
 - 💬 Welcome to have a chat for research and coding.
 
