@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Jian Wang 👋
 
 <!--
 **iwangjian/iwangjian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Read more about me at [my homepage](https://iwangjian.github.io/) 
+- 💻 Coding with Python/C++/Java, familiar with PyTorch and Tensorflow.
+- 💬 Welcome to have a chat for research and coding.
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=iwangjian)]()
