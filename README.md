@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 - 💻 Coding with Python/C++/Java, familiar with PyTorch and Tensorflow.
 - 💬 Welcome to have a chat for research and coding.
 
+<!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=iwangjian&count_private=true&show_icons=true&rank_icon=github&locale=en)]()
+-->
